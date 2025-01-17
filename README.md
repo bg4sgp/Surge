@@ -1,3 +1,3 @@
 # Surge
 订阅链接：
-https://raw.githubusercontent.com/bg4sgp/Surge/main/Surge.conf
+https://github.com/bg4sgp/Surge/raw/refs/heads/main/Surge.conf
